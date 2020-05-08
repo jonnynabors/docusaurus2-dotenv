@@ -16,8 +16,7 @@
   "author": "Jonny Nabors",
   "license": "MIT",
   "dependencies": {
-    "dotenv-webpack": "1.7.0",
-    "node": "14.2.0"
+    "dotenv-webpack": "1.7.0"
   },
   "publishConfig": {
     "access": "public"

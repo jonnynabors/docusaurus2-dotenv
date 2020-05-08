@@ -8,7 +8,7 @@ Install the package in your repository
 
 or
 
-`yarn install docusaurus2-dotenv`
+`yarn add docusaurus2-dotenv`
 
 ### Description
 
