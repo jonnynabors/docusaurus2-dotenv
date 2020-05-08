@@ -27,5 +27,9 @@
     "@types/dotenv-webpack": "1.7.0",
     "@types/node": "13.13.5",
     "typescript": "3.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonnynabors/docusaurus2-dotenv.git"
   }
 }
